@@ -18,7 +18,8 @@ Cloneable referential to initialize R-DUP with the best practice.
 
 ## Description
 
-This program allows to remove the files duplicated located in a selected directory and its sub-directory. 
+This program allows to remove the files duplicated located
+in a selected directory and its sub-directory. 
 
 ---
 
